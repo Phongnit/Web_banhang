@@ -89,7 +89,7 @@
                             </ul>
                         </div>
                         <div class="offcanvas_footer">
-                            <span><a href="#"><i class="fa fa-envelope-o"></i> dinhsan200@gmail.com</a></span>
+                            <span><a href="#"><i class="fa fa-envelope-o"></i> phongnit69@gmail.com</a></span>
                             <ul>
                                 <li class="facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li class="twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -238,8 +238,8 @@
                             <h3>Liên hệ chúng tôi</h3>
                             <div class="footer_contact">
                                 <p>Địa chỉ: 236, Đường Hoàng Quốc Việt , Phường Cổ Nhuế, Thành phố Hà Nội</p>
-                                <p>Điện thoại: <a href="tel:+(+84)972580430">(+84) 972580430</a> </p>
-                                <p>Email: <a href="mailto:dinhsan200@gmail.com">dinhsan200@gmail.com</a></p>
+                                <p>Điện thoại: <a href="tel:+(+84)362682422">(+84) 362682422</a> </p>
+                                <p>Email: <a href="mailto:phongnit69@gmail.com">phongnit69@gmail.com</a></p>
                                 <ul>
                                     <li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
                                     <li><a href="#" title="google-plus"><i class="fa fa-google-plus"></i></a></li>

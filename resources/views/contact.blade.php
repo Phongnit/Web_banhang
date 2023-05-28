@@ -28,8 +28,8 @@
                     <h3>Liên hệ</h3>
                     <ul>
                         <li><i class="fa fa-fax"></i>  Số nhà 236, Đường Hoàng Quốc Việt , Phường Cổ Nhuế, Thành phố Hà Nội</li>
-                        <li><i class="fa fa-phone"></i> <a href="mailto:dinhsan200@gmail.com">dinhsan200@gmail.com</a></li>
-                        <li><i class="fa fa-envelope-o"></i> (+84) 972580430</li>
+                        <li><i class="fa fa-phone"></i> <a href="mailto:phongnit69@gmail.com">phongnit69@gmail.com</a></li>
+                        <li><i class="fa fa-envelope-o"></i> (+84) 362682422</li>
                     </ul>
                 </div>
             </div>
